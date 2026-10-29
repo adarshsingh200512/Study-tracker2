@@ -1,0 +1,6 @@
+{
+  "name": "Study Tracker",
+  "description": "Comprehensive mobile-first study tracker with syllabus breakdown, video progress, focus timer, 4-in-1 calendar, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
